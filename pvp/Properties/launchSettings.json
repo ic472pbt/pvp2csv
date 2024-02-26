@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "pvp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"r:\\HA2 0,7 A.pvp\" -m"
+    }
+  }
+}
